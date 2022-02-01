@@ -1,0 +1,2 @@
+Model weights are large, so download them from google drive.
+https://drive.google.com/drive/folders/1lvG6_nvnITegm6OD6s_XlCqYoB92Oxtm?usp=sharing
